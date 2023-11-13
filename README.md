@@ -1,5 +1,5 @@
 ﻿Miranda is a random password generator. A distinctive feature of Miranda compared to classical generators is that it allows you to personalize a set of special characters, as well as insert whole words (i.e. groups of characters). 
-
+<img src = "screenshot/MirandaWindow.PNG" width = 350>
 If included, the words can appear in the password randomly or semi-randomly, depending on the strategy chosen by the user. 
 Four internal generation algorithms respond to all possible choice scenarios. 
 
