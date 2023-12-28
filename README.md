@@ -6,13 +6,6 @@ Miranda is a random password generator. A distinctive feature of Miranda compare
 
 <img src = "screenshot/dialogWords.PNG" height = 140 > &nbsp; &nbsp; &nbsp; &nbsp; <img src = "screenshot/dialogSpeChar.PNG" height = 140 >
  
-Four internal generation algorithms respond to all possible choice scenarios. 
-
 Generated passwords are displayed in the field "History", which can be cleared at will. 
 The last generated password can be copied to the clipboard by clicking on the button provided for this purpose. 
 The "Reset" button restores the default settings.
-
-
-[Miranda's installer](https://drive.google.com/file/d/1gXbzSBzct_HxgM2pDJ3bL1QQY2MvPJ4k/view?usp=sharing) file is available for Windows 64-bit. Please, unzip the obtained file (miranda-setup-1.0-win64.rar) to get the installer (miranda-setup-1.0-win64.exe).
-
-Release date: September 1, 2023
